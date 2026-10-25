@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Vercel deployment artifacts
+.vercel/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+.vercel
